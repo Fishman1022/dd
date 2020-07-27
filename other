@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <title>My Settings</title>
+
+    <body style="background-color: darkcyan;">
+        <h1>My Settings</h1>
+        <p>
+            My DPI is set to 1200, and my in-game sensitivity is set to 50 (Windows default). <br/>
+            I do not have movement prediction enabled. You can use it as a training wheel for wiggling, but movement prediction is troublesome to deal with by itself, and I don't recommend using it.
+        </p>
+
+    </body>
+    
+</html>
