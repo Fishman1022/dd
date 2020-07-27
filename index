@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<title>Advanced League Mechanics</title>
+
+<body style="background-color:darkcyan;">
+    <nav>
+        <a href="./other.html"> My Settings </a>
+    </nav>
+
+    <h1>Advanced League Mechanics</h1>
+    <ul>
+         <li><a href="#Wiggling: Dash Dancing in League of Legends">Wiggling</a></li>
+         <li><a href="#F-Keying">F-Keying</a></li>
+         <li><a href="#Clicking">Clicking vs. Auto-pathing</a></li> 
+    </ul>
+    <div id="Wiggling: Dash Dancing in League of Legends">
+       <h2>Wiggling: Dash Dancing in League of Legends</h2> 
+       <p style="width: 500px;"> Wiggling is the act of rapidly clicking from left to right near your player character. While wiggling, the idea you should replicate is rapid but <strong>confined</strong> movement.
+          <br/> <br/> Wiggling helps with:
+            <ul>
+                <li> Baiting out enemy abilities and setting their cooldowns.</li>
+                <li> Avoiding enemy abiltiies to mitigate damage received during trades.</li>
+                <li> Landing your own abiltiies and possibly turning the tides of the lane in your favor.</li>
+            </ul>
+          </p>     
+       <video src="https://cdn.discordapp.com/attachments/462670979009740801/737173374731550870/League_of_Legends_2020.07.27_-_00.47.15.02.webm" width="500" height="400" controls muted loop autoplay >Video not supported</video>
+          <p style="width: 500px;"> 
+            Imagine a small circle surrounding Annie. In this figure, I move Annie rapidly within that imaginary circle.
+            Wiggling shares a lot of its practicality with the Smash Bros. tactic Dash Dancing.   
+            Dash Dancing, just like Wiggling, involves rapid and confined movement. Here is an example of effective use of the technique:
+          </p>
+       <img src="https://cdn.discordapp.com/attachments/462670979009740801/737177315414638612/MangoDD_1.gif" alt="Video not supported"/>
+          <p style="width: 500px;">
+            In this figure, Fox (USA) baits out a grab by dash dancing and rapidly changing his movement, allowing for a punish into an eventual KO.    
+          </p>
+
+           <p style="width: 500px;"> 
+            For new players, Wiggling is one of the harder techniques to learn, but it is recommended you learn it early so it eventually becomes part of your muscle memory. Initial practice 
+            may lead to some pain your wrist, so don't be afraid to take a break! Wiggling requires a gradual learning process, so be sure to stop whenever your wrist gets too painful.
+            You can practice wiggling by loading up practice tool and surrounding yourself with ally dummies. Try to click rapidly within the circle of dummies. 
+           </p> 
+       <video src="https://cdn.discordapp.com/attachments/462670979009740801/737182350365949962/League_of_Legends_2020.07.27_-_00.49.35.04.webm" width="500" height="400" controls muted autoplay loop>Video not supported.</video>
+    
+    </div>
+    
+    <h2 id="F-Keying">F-Keying</h2>
+    <div>
+          <p style="width: 500px;">
+               F-Keying allows you to quickly center your camera on your ally champion units. 
+               Using the F1-F5 keys at the top of your keyboard allows you to center the camera on players 1-5 respectively. 
+               Player 1 will always be you, so I recommend setting camera center on players 2-5 as F1-F4 and center self as Spacebar for easier access. 
+          </p>
+          <video src="https://cdn.discordapp.com/attachments/462670979009740801/737365342426365972/League_of_Legends_2020.07.27_-_01.50.16.05.webm" width ="500" height="400" controls muted> Video not supporterd.</video>
+          <p style="width: 500px;">
+               If you're a new player, you may have already resorted to clicking on minimap for camera movement. This is fine in situations where you want intel outside of an ally champion's view, 
+               but otherwise F-keying is much faster and much more useful for gathering intel (i.e., wave states, health bars, resources, cooldowns, etc.).
+               If you've already gotten used to clicking on map, or are just now getting the hang of League, I <em><strong>highly recommend</strong></em> learning to use F-keys. 
+               You might see certain players use F-keys as an APM booster, but don't pay attention to this yet. Trying to boost APM while still learning the fundamentals will only lead to inefficiency and bad habits. 
+          </p>
+
+          <iframe width="500" height="400" src="https://www.youtube.com/embed/y7rpn1_HLCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <h2>Clicking vs Auto-pathing</h2>
+    <div id="Clicking">
+          <p style="width: 500px;">
+               This tip is a lot simpler, and its practicality is less varied, but it can possibly save you up to 3-5 seconds of time.
+               This tip is a lot more useful in an RTS game like Starcraft II, but still has its use in League.  League's automatic pathing can be a bit wonky at times
+               and can cause you to bump into terrain like walls and turrets, but by manually pathing your character, you can save time and get to lane faster.
+
+               
+          </p>
+          <iframe width="500" height="400" src="https://www.youtube.com/embed/z14gHw6otT0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <p style="width: 500px;">
+            These tips are "advanced," but I recommend learning these as early as possible, especially if you're a new player. All these tips help with your gameplay and will  improve your performance.
+          </p>
